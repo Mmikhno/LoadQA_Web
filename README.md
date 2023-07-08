@@ -16,6 +16,7 @@
 <img width="1335" alt="Jmeter_1" src="https://github.com/Mmikhno/LoadQA_Web/assets/107706719/f2f8198f-59b3-470d-affa-8f9a7a455628">
 2.
 <img width="1351" alt="Jmeter_2" src="https://github.com/Mmikhno/LoadQA_Web/assets/107706719/01b2b198-744f-4f7a-972b-9cdac3f85cf2">
+
 3.
 <img width="988" alt="Jmeter_3" src="https://github.com/Mmikhno/LoadQA_Web/assets/107706719/b26ce9c5-dc3f-4fed-b050-8cfc122e370a">
 
